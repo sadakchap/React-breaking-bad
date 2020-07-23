@@ -1,0 +1,4 @@
+1) Add debouncing feature on Search bar
+2) update Character Cards design 
+3) Add Pagination
+4) Update README.md
